@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "SceneFusion",
-			"Enabled": true
-		},
-		{
 			"Name": "ApexDestruction",
 			"Enabled": true
 		}
